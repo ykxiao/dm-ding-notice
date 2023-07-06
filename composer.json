@@ -1,5 +1,5 @@
 {
-    "name": "ykxiao/dm-ding-notice",
+    "name": "ykxiao/dwoodauto-ding-notice",
     "description": "a dingtalk robot message handle for send message",
     "keywords": ["laravel", "ding talk", "ding notice"],
     "require": {

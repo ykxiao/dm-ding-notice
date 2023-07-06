@@ -23,7 +23,7 @@ ding-notie 是一款钉钉机器人消息发送的Laravel扩展，您可以通�
 # 安装
 
 ```php
-composer require ykxiao/dm-ding-notice
+composer require ykxiao/dwoodauto-ding-notice
 
 ```
 
